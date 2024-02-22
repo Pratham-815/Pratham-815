@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratham-815
 - 👀 I’m interested in Digital Tech
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and getting my hands dirty with linux operating system
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
