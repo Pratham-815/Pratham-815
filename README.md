@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **prathamagarwal815@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1OjuXmzg4Wl9_tG4eOnWr0QLM42-lTGAb](https://drive.google.com/drive/u/0/folders/1OjuXmzg4Wl9_tG4eOnWr0QLM42-lTGAb)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
