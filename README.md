@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham-815&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-815" /> </p>
 
-- 🌱 I’m currently learning **Python and Version Control**
+- 🌱 I’m currently learning **Machine Learning and Backend Development**
 
-- 💬 Ask me about **Python, Computer Fundamentals**
+- 💬 Ask me about **Python, Version Control, Linux**
 
 - 📫 How to reach me **prathamagarwal815@gmail.com**
 
